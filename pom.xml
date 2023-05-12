@@ -49,8 +49,6 @@
         <artifactId>maven-site-plugin</artifactId>
         <configuration>
           <reportPlugins>
-      </plugin>
-            
             <plugin>
               <artifactId>maven-checkstyle-plugin</artifactId>
             </plugin>
@@ -223,7 +221,7 @@
   </scm>
 
   <prerequisites>
-    <maven>3.6.3</maven>
+    <maven>3.0.3</maven>
   </prerequisites>
 
 </project>
